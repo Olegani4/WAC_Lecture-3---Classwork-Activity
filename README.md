@@ -1,11 +1,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>The Picture of Dorian Gray</title>
   <meta name="description" content="My Page Description">
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 </head>
 <body style="background-color:rgb(220, 220, 220);">
+  <script src="js/scripts.js"></script>
 
 <h1 style="font-weight:bold;">The Picture of Dorian Gray</h1>
 <h2 style="font-weight:bold;">by Oscar Wilde</h2>
